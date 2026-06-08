@@ -1,0 +1,6 @@
+Story: LF5.3.2: Version Control Paradigms
+STATUS: Erledigt am 08.06.2026
+
+Kerneerkenntnis:
+- Zentralisiert (z.B. SVN): Die Historie liegt NUR auf dem Server. Fällt der Server aus, ist die Historie weg.
+- Verteilt (z.B. Git): Jeder Arbeitsplatz hat die KOMPLETTE Historie lokal als Kopie gespeichert.
