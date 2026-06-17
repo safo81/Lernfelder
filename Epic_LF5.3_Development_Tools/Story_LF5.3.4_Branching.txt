@@ -1,5 +1,0 @@
-Story: LF5.3.4 - Branching & Workflows
-STATUS: In Arbeit
-
-Konzept:
-Branches erlauben es, an neuen Funktionen zu arbeiten, ohne den Hauptzweig (master) zu stören.
